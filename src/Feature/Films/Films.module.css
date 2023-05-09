@@ -1,0 +1,14 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+.card {
+  border: 2px solid #131212;
+  text-align: center;
+}
+.poster {
+  width: 400px;
+  height: 450px;
+}
